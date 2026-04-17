@@ -36,6 +36,7 @@ Hi, I'm Gyujeong Jin(진규정). I’m a security researcher specializing in vul
 ---
 
 ### 🐛 BugHunts
+- **CVE-2026-28817** - Apple
 - **CVE-2025-10500** - Chromium
 - **CVE-2025-30158** - NamelessMC
 - **CVE-2025-30357** - NamelessMC
