@@ -23,6 +23,8 @@ Hi, I'm Gyujeong Jin(진규정). I’m a security researcher specializing in vul
 ---
 
 ### 📄 Papers
+- **자율무인체계 환경의 센서-제어 가상화 경로 취약점 분석 자동화 연구** - TKIPS (2026.6)
+- **LLM 서비스 환경에서의 사이드채널 공격 및 대응 기술 동향** - 한국정보보호학회지 (36권, 2호, 2026.4)
 - **Towards Automated Vulnerability Analysis in ARM-based Virtualization** - TKIPS (2025.12)
 - **macOS 커널 디버깅을 위한 심볼 이식 기법 연구** - KIPS (2025.11)
 - **Poster: Inferring On-Screen Keyboard Input via Gamepad-based Mouse Movement Traces** - ACM CCS Poster (2025.10)
