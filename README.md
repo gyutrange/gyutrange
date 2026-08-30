@@ -1,5 +1,5 @@
 ## Hellowww 👋
-Hi, I'm Gyujeong Jin(진규정). I’m a security researcher specializing in vulnerability analysis, side-channel attacks, hardware security, and AI for security. I actively engage in bug hunting, competitive CTFs, and academic research, regularly submitting papers to security conferences and journals, and have received CVE assignments for discovered vulnerabilities.
+Hi, I'm 진규정 (Gyujeong Jin, @G1uN4sh). I'm a security researcher focusing on vulnerability research, Agentic AI and Physical AI security, side-channel attacks, and hardware & embedded security. I actively conduct vulnerability research and bug hunting across software, AI, and embedded systems, and have received CVE assignments for discovered vulnerabilities. I also participate in competitive CTFs and academic research, regularly submitting my work to security conferences and journals.
 
 ### Contact Me!
 📧 [Email](mailto:wlsrbwjd7232@gmail.com) 💼 [LinkedIn](https://www.linkedin.com/in/gyujeong-jin-38592b2a9/) 🛡️ [DreamHack](https://dreamhack.io/users/8785)
@@ -14,11 +14,11 @@ Hi, I'm Gyujeong Jin(진규정). I’m a security researcher specializing in vul
 
 ### 🧠 Research Interests
 
-- 🔍 Vulnerability Research  
+- 🔍 Vulnerability Research
+- 👾 Agentic AI Security
+- 🤖 Physical AI Security
 - 🧪 Side-Channel Attacks  
-- 📡 Hardware & Embedded Security  
-- 👥 Usable Security
-- 🤖 AI for Security
+- 📡 Hardware & Embedded Security
 
 ---
 
@@ -39,8 +39,9 @@ Hi, I'm Gyujeong Jin(진규정). I’m a security researcher specializing in vul
 ---
 
 ### 🐛 BugHunts
-- **CVE-2026-28817** - Apple
-- **CVE-2025-10500** - Chromium
+- **CVE-2026-64758** - Apple ($2,000)
+- **CVE-2026-28817** - Apple ($20,000)
+- **CVE-2025-10500** - Chromium ($15,000)
 - **CVE-2025-30158** - NamelessMC
 - **CVE-2025-30357** - NamelessMC
 - **CVE-2025-31118** - NamelessMC
@@ -63,28 +64,23 @@ Hi, I'm Gyujeong Jin(진규정). I’m a security researcher specializing in vul
 
 ---
 
-### 🎓 Academic Awards
-- **Best Of the Best 14th 취약점분석 트랙 Best 10** (2026.2)
-- **윤리적해커양성 5기 최우수 교육생** (2024.8)
-- **화이트햇스쿨 1기 TOP 20** (2024.2)
-- **가명정보 처리과정 우수학생** (2023.11)
-- **KNU 2023년 SW 창업역량 강화 및 창업지원 프로그램 동상** (2023.7)
-- **국가 이공계 우수 장학생** (2022.3 ~ 2026.2)
-- **KT 강원고객본부 정보통신분야 우수학생** (2016.2)
+### 🎓 Academics and Awards
+- **Best Of the Best 14th 취약점분석 트랙 Best 10🏆** - KITRI (2025.7 ~ 2026.2)
+- **화이트햇스쿨 1기 TOP 20🏆** - KITRI (2023.8 ~ 2024.3)
+- **윤리적해커양성 5기 최우수 교육생🏆** - 국가정보원 및 사이버안보훈련센터 (2024.2 ~ 2024.8)
+- **국가 이공계 우수 장학생🏆** (2022.3 ~ 2026.2)
+- **싱가포르 기술 연수** - NSHC (2025.1)
+- **현장에서 필요한 Cloud Security** - QueryPie (2024.8)
+- - **가명정보 처리과정 우수학생🏆** - KISA (2023.11)
+- **시큐어코딩 민간SW개발보안 대학생 과정** - KISEC (2023.8)
+- **스피어피싱 대학생 심화과정** - KISA (2023.8)
+- **KNU 2023년 SW 창업역량 강화 및 창업지원 프로그램 동상🏆** (2023.7)
+- **KT 강원고객본부 정보통신분야 우수학생🏆** (2016.2)
 
 ---
 
-### 📚 Academics
-- **Best Of the Best 14th 취약점분석 트랙 교육생** (2025.7)
-- **싱가포르 기술 연수** - NSHC (2025.1)
-- **화이트햇스쿨 1기** - KITRI (2023.8 ~ 2024.3)
-- **윤리적해커양성 5기** - 국가정보원 및 사이버안보훈련센터 (2024.2 ~ 2024.8)
-- **스피어피싱 대학생 심화과정** - KISA (2023.8)
-- **시큐어코딩 민간SW개발보안 대학생 과정** - KISEC (2023.8)
-- **가명정보처리 대학생 과정** - KISA (2023.11)
-- **현장에서 필요한 Cloud Security** - QueryPie (2024.8)
-
 ### 💼 Experiences
+- **DEFCON'34 Finalist @Jinddabi's**
 - **2025 Student President, Dept. of Cybersecurity** - Kangwon National University
 - **KNU CoSP Lab** (2024 ~)
 - **사이음** - 한국사회복지협의회(SSN) (2025.4 ~)
