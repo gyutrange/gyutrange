@@ -51,11 +51,14 @@ Hi, I'm 진규정 (Gyujeong Jin, @G1uN4sh). I'm a security researcher focusing o
 ---
 
 ### 🏆 Awards
+- **WISA Best Poster Award in COSS** - (2026.8)
+- **부채널정보분석경진대회 777사령관상** - (2026.7)
 - **Autohack2025 이타스코리아상** - (2025.11)
 - **SecureX Challenge 1st** - (2025.11)
 - **GCHD 2025 1st** - (2025.11)
 - **글로벌 AI 인재양성 챌린지 대상** - (2025.9)
 - **KUCIS CTF 2025 2nd** - (2025.8)
+- **부채널정보분석경진대회 부채널분석연구회장상** - (2025.7)
 - **BISC 2024 장려상** - (2024.11)
 - **GCHD 2024 2nd** - (2024.11)
 - **Autohack2024 COSS사업단장상** - (2024.11)
@@ -71,7 +74,7 @@ Hi, I'm 진규정 (Gyujeong Jin, @G1uN4sh). I'm a security researcher focusing o
 - **국가 이공계 우수 장학생🏆** (2022.3 ~ 2026.2)
 - **싱가포르 기술 연수** - NSHC (2025.1)
 - **현장에서 필요한 Cloud Security** - QueryPie (2024.8)
-- - **가명정보 처리과정 우수학생🏆** - KISA (2023.11)
+- **가명정보 처리과정 우수학생🏆** - KISA (2023.11)
 - **시큐어코딩 민간SW개발보안 대학생 과정** - KISEC (2023.8)
 - **스피어피싱 대학생 심화과정** - KISA (2023.8)
 - **KNU 2023년 SW 창업역량 강화 및 창업지원 프로그램 동상🏆** (2023.7)
