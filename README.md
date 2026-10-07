@@ -41,6 +41,7 @@ Hi, I'm 진규정 (Gyujeong Jin, @G1uN4sh). I'm a security researcher focusing o
 ### 🐛 BugHunts
 - **CVE-2026-64758** - Apple ($2,000)
 - **CVE-2026-28817** - Apple ($20,000)
+- **Xen Project**    - Patched
 - **CVE-2025-10500** - Chromium ($15,000)
 - **CVE-2025-30158** - NamelessMC
 - **CVE-2025-30357** - NamelessMC
@@ -53,6 +54,7 @@ Hi, I'm 진규정 (Gyujeong Jin, @G1uN4sh). I'm a security researcher focusing o
 ### 🏆 Awards
 - **WISA Best Poster Award in COSS** - (2026.8)
 - **부채널정보분석경진대회 777사령관상** - (2026.7)
+- **한국전자파학회 동계종합학술대회 우수논문상** - (2026.2)
 - **Autohack2025 이타스코리아상** - (2025.11)
 - **SecureX Challenge 1st** - (2025.11)
 - **GCHD 2025 1st** - (2025.11)
