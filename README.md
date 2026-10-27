@@ -39,14 +39,15 @@ Hi, I'm 진규정 (Gyujeong Jin, @G1uN4sh). I'm a security researcher focusing o
 ---
 
 ### 🐛 BugHunts
+- **CVE-2026-112601** - Apple
+- **CVE-2026-112461** - Apple
 - **CVE-2026-64758** - Apple ($2,000)
 - **CVE-2026-28817** - Apple ($20,000)
-- **Xen Project**    - Patched
 - **CVE-2025-10500** - Chromium ($15,000)
 - **CVE-2025-30158** - NamelessMC
 - **CVE-2025-30357** - NamelessMC
 - **CVE-2025-31118** - NamelessMC
-- **Bug report** - GoormIDE
+- **Bug report** - GoormIDE, Xen Project
 - **Public Institution Vulnerability Assessment**
 
 ---
